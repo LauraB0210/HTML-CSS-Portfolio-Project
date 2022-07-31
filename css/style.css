@@ -2,6 +2,7 @@
     font-family:cursive;
     line-height: 40px;
     background-color: #DFD5D2;
+
 }
 
 
@@ -33,13 +34,10 @@ header ul li {
 
 }
 
-.section1{
-
-}
-
-
 .header{
     text-align: center;
 
 }
-
+h1{
+    color: rgb(18, 18, 179);
+}
