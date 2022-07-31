@@ -1,8 +1,32 @@
-/**
- * Add your custom styles below
- * 
- * Remember: 
- * - Be organised, use comments and separate your styles into meaningful chunks
- *    for example: General styles, Navigation styles, Hero styles, Footer etc.
- * 
- */
+* {
+    font-family:cursive;
+    line-height: 40px;
+    background-color: #DFD5D2;
+}
+
+header {
+    width: 100%;
+    padding-top: 20px;
+        padding-right: 20px;
+        padding-bottom: 20px;
+        padding-left: 20px;
+    
+    
+}
+header ul{
+    margin: 20px 0 0 0;
+    padding: 0;
+    color: #070505;
+}
+nav {
+    display: inline-block;
+    width: 100%;
+}
+
+header ul li {
+    display: inline-block;
+    margin-right: 10px;}
+
+
+
+
