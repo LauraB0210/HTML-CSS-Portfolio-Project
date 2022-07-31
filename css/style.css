@@ -11,6 +11,8 @@ header ul{
     padding: 0;
     color: #070505;
 }
+
+
 nav {
     display: inline-block;
     width: 100%;
@@ -38,6 +40,9 @@ header ul li {
     text-align: center;
 
 }
-h1{
+h1 {
     color: rgb(18, 18, 179);
 }
+
+
+    
