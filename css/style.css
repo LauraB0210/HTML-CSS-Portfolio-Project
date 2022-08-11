@@ -6,6 +6,7 @@ body {
 }
 #proyecto1 {
     color: rgb(255, 127, 127);
+
 }
 
 header ul{
@@ -13,8 +14,6 @@ header ul{
     padding: 0;
     color: #070505;
 }
-
-
 
 
 nav {
@@ -31,6 +30,19 @@ header ul li {
     color: rgb(202, 51, 5);
 
 }
+
+.proyectos{
+    display: flex;
+    
+    
+}
+
+.proyectos section{
+    padding: 0.5em;
+    border: 2px solid rebeccapurple;
+    margin: 3px;
+}
+
 #footer{
     text-align: center;
 }
@@ -46,6 +58,7 @@ header ul li {
 }
 h1 {
     color: rgb(18, 18, 179);
+    text-align: center;
 }
 
 
