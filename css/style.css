@@ -1,7 +1,7 @@
 body {
     font-family:cursive;
     line-height: 40px;
-    background-color: #DFD5D2;
+    background-color: rgb(42, 42, 112);
 
 }
 #proyecto1 {
@@ -27,7 +27,8 @@ header ul li {
 
 
 #bienvenidos{
-    color: rgb(202, 51, 5);
+    color: white;
+    font-size: 50px;
 
 }
 
