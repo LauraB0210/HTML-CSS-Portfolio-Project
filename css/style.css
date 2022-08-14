@@ -8,16 +8,16 @@ body {
 }
 
 header ul{
-    margin: 20px 0 0 0;
+   
     padding: 0;
     color:aqua;
-
+    
 }
-
 
 nav {
     display: inline-block;
     width: 100%;
+    
 }
 
 header ul li {
