@@ -2,7 +2,7 @@ body {
     font-family:cursive;
     font-size: 20px;
     line-height: 30px;
-    background-color: rgb(42, 42, 112);
+    background-color: #2e3141;
     color: white;
 
 }
@@ -10,7 +10,8 @@ body {
 header ul{
     margin: 20px 0 0 0;
     padding: 0;
-    color: #746565;
+    color:aqua;
+
 }
 
 
@@ -23,6 +24,10 @@ header ul li {
     display: inline-block;
     margin-right: 10px;}
 
+
+a{
+    color:blueviolet
+}
 
 #bienvenidos{
     color: white;
@@ -47,10 +52,15 @@ header ul li {
     
 }
 
+.imgpagina{
+
+}
+
 .proyectos section{
     padding: 0.5em;
     border: 2px solid rebeccapurple;
     margin: 3px;
+    background-color: #353849;
 }
 
 
@@ -62,6 +72,9 @@ header ul li {
 .header{
     text-align: center;
 
+}
+h1{
+    text-align: center;
 }
 
 
