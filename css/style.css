@@ -26,7 +26,7 @@ header ul li {
 
 
 a{
-    color:blueviolet
+    color:rgb(219, 132, 175)
 }
 
 #bienvenidos{
@@ -58,8 +58,7 @@ a{
 
 .proyectos section{
     padding: 0.5em;
-    border: 2px solid rebeccapurple;
-    margin: 3px;
+    margin: 6px;
     background-color: #353849;
 }
 
