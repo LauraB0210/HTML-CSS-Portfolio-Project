@@ -40,9 +40,14 @@ a{
     display: flex;
     flex-direction: row;
     justify-content:space-around;
-
+    
 }
 
+#fotolaura >img {
+    width: 300px;
+        height: 300px;
+        border-radius: 150px;
+}
 
 .proyectos
 {
@@ -52,8 +57,9 @@ a{
 }
 
 #fotolaura{
-    border-radius: 20px;
+    
 }
+
 .imgpagina{
 
 }
